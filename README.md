@@ -92,7 +92,7 @@ git clone https://github.com/mindfullMellow/Pig--game-with-javascript
 
 ## 🙌 Author
 
-<a href="https://github.com/mindfullMellow">Samuel Daniel Emeka</a>
+<a href="https://github.com/mindfullMellow">Daniel Samuel Emeka</a>
 
 GitHub: @mindfullMellow
 
