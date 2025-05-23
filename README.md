@@ -86,6 +86,16 @@ git clone https://github.com/mindfullMellow/Pig--game-with-javascript
 2.Open <strong> index.html</strong> in any browser.
 <br>
 
+## 🔗 Live Demo
+
+<a href ="https://javscript-pig-game-v3.netlify.app">Click to Play </a>
+
+## 🙌 Author
+
+<a href="https://github.com/mindfullMellow">Samuel Daniel Emeka</a>
+
+GitHub: @mindfullMellow
+
 ## 📄 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
